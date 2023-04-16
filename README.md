@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm AlexKTP</h1>
-<h3 align="center">A passionate developer from France</h3>
+<h1 align="center">Hi 👋, I'm KTP</h1>
+<h3 align="center">A passionate developer</h3>
 
 - 🔭 I’m currently working as **Android And BackEnd Dev.**
 
-- 🌱 I’m currently learning **Angular and Spring**
+- 🌱 I’m currently learning **Flutter and Ktor**
 
-- 🤝 I’m currently working on **a time tracker app**
+- 🤝 I’m currently working on **FlashCards app**
 
 - ⚡ I would be interested in **an experience abroad**
 
