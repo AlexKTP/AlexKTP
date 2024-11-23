@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm KTP</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🔭 **Android And BackEnd Dev.**
 <p align="left">
 </p>
 
